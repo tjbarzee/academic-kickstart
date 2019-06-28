@@ -21,8 +21,9 @@ organizations:
 bio: My research interests focus on the integration of circular bioeconomy concepts in renewable energy and agriculture
 
 interests:
-- Agricultural Waste Management and Renewable Energy
-- Controlled Environment Engineering (e.g. Greenhouses and Bioreactors)
+- Agricultural Waste Management 
+- Renewable Energy
+- Controlled Environment Engineering
 - Algal and Fungal Biotechnology
 - Technoeconomic and Life Cycle Assessment
 - Engineering Education
@@ -73,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate in Biological Systems Engineering at the University of California Davis where I work with Professor Ruihong Zhang in the Bioenvironmental Engineering lab. My  research interests include: Agricultural Waste Management and Renewable Energy, Controlled Environment Engineering (e.g. Greenhouses and Bioreactors), Algal and Fungal Biotechnology, and Technoeconomic/Life Cycle Assessment. I am also passionate about engineering education, sustainable development, and interdisciplinary planetary health solutions (e.g. One Health). I am in the final stage of my doctoral degree at UC Davis and my future goal is to become a faculty researcher and educator.
+I am a PhD Candidate in Biological Systems Engineering at the University of California Davis where I work with Professor Ruihong Zhang in the Bioenvironmental Engineering lab. My  research interests include: Agricultural Waste Management, Renewable Energy, Controlled Environment Engineering (e.g. Greenhouses and Bioreactors), Algal and Fungal Biotechnology, and Technoeconomic/Life Cycle Assessment. I am also passionate about engineering education, sustainable development, and interdisciplinary planetary health solutions (e.g. One Health). I am in the final stage of my doctoral degree at UC Davis and my future goal is to become a faculty researcher and educator.
