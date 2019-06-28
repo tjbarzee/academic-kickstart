@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "Digestate biofertilizers support similar or higher tomato yields and quality than mineral fertilizer in a subsurface drip fertigation system"
   image: ""
 ---
