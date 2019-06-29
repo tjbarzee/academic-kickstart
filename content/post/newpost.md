@@ -6,8 +6,8 @@ gallery_item:
   image: Nutrient Cycle Graphic.jpg
   caption: Nutrient Cycling
 - album: gallery
-  image: Modeling Graphic .jpg
-  caption: Model
+  image: tomato.jpg
+  caption: Tomato Yield and Quality
 ---
 
 {{< gallery >}}
