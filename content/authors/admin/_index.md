@@ -56,7 +56,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=99upI5QAAAAJ
 - icon: researchgate
-  icon_pack: fab
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Tyler_Barzee
 # - icon: github
 #  icon_pack: fab
