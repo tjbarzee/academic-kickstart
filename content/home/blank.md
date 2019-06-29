@@ -32,8 +32,6 @@ subtitle = ""
   # Text color (true=light or false=dark).
   text_color_light = true
 
-{{< gallery album="<gallery>" >}}
-
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
@@ -46,4 +44,4 @@ subtitle = ""
  css_class = ""
 +++
 
-
+{{< gallery album="<gallery>" >}}
