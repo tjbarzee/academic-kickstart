@@ -44,4 +44,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< gallery album="<gallery>" >}}
+{{< gallery album="<static/img/gallery>" >}}
