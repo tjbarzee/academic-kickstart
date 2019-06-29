@@ -1,5 +1,3 @@
-{{< figure src="tomato.jpg" title="Tomato Yield and Quality" >}}
-
 ---
 title: Digestate biofertilizers support similar or higher tomato yields and quality than mineral fertilizer in a subsurface drip fertigation system
 publication_type: 2
