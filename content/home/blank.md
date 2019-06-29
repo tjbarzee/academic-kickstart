@@ -1,4 +1,5 @@
 +++
+
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -25,7 +26,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "static/img/Nutrient Cycle Graphic"  # Name of image in `static/img/`.
+  image = "static/img/Nutrient Cycle Graphic.jpg"  # Name of image in `static/img/`.
   image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
