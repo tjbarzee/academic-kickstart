@@ -9,7 +9,7 @@ authors:
 - Steve Zicari
 - Ruihong Zhang
 date: "2016-02-26T00:00:00Z"
-doi: ""
+# doi: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
