@@ -30,7 +30,7 @@ tags:
 - biofertilizers
 - value-added products
 - sustainable
-featured: false
+featured: true
 
 # image:
 #  caption: 'Some tomato yield and quality characteristics, DMP, FWC, and DMC all refer to different digestate biofertilizer treatments'
