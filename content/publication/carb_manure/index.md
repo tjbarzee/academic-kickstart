@@ -32,7 +32,7 @@ tags:
 - greenhouse gas
 - anaerobic digestion
 - technoeconomic analysis
-featured: false
+featured: true
 
 # image:
 #  caption: 'Some tomato yield and quality characteristics, DMP, FWC, and DMC all refer to different digestate biofertilizer treatments'
