@@ -25,10 +25,10 @@ abstract: Peromyscus leucopus (White-footed Mouse) is a common host for Cuterebr
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Cuterebra fontinella
-- Peromyscus leucopus
-- Bot fly
-- White-Footed Mouse
+- cuterebra fontinella
+- peromyscus leucopus
+- bot fly
+- white-footed mouse
 featured: true
 
 # image:
