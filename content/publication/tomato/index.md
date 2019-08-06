@@ -27,7 +27,8 @@ abstract: This study investigated the effects of applying anaerobically digested
 
 tags:
 - anaerobic digestate
-- tomatoes, liquid fertilizers
+- tomatoes
+- liquid fertilizers
 - biofertilizer
 - subsurface drip fertigation
 - ultrafiltration
