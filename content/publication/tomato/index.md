@@ -35,7 +35,7 @@ featured: false
 
 image:
   caption: 'Some tomato yield and quality characteristics, DMP, FWC, and DMC all refer to different digestate biofertilizer treatments'
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # links:
