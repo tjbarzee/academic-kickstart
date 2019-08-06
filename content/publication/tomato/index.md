@@ -39,9 +39,6 @@ featured: false
 #  focal_point: "Center"
 #  preview_only: false
 
-header:
-  image: "tomatoheader.jpg"
-  caption: "Integrated Biofertilizer Production and Application to Tomatoes"
 
 # links:
 # - name: Website
