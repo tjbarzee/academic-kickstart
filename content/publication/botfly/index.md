@@ -40,7 +40,7 @@ featured: true
 # links:
 # - name: Website
 #   url: https://www.frontiersin.org/articles/10.3389/fsufs.2019.00058/full
-url_pdf: 'https://bioone.org/journals/southeastern-naturalist/volume-17/issue-4/058.017.0413/Effect-of-Cuterebra-fontinella-Mouse-Bot-Fly-on-the-Movement/10.1656/058.017.0413.full'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
