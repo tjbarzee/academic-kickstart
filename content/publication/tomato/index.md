@@ -34,9 +34,9 @@ tags:
 featured: false
 
 # links:
-- name: Website
-   url: https://www.frontiersin.org/articles/10.3389/fsufs.2019.00058/full
-url_pdf: ''
+# - name: Website
+#   url: https://www.frontiersin.org/articles/10.3389/fsufs.2019.00058/full
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/fsufs.2019.00058/full'
 url_code: ''
 url_dataset: ''
 url_poster: ''
