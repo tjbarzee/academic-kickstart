@@ -50,7 +50,7 @@ url_video: ''
 image: featured.jpg
 caption: 'Integrated digestate processing system and biofertilizer application.'
 #  focal_point: ""
-preview_only: false
+preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
