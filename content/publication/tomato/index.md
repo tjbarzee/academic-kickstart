@@ -39,6 +39,10 @@ featured: false
 #  focal_point: "Center"
 #  preview_only: false
 
+header:
+  image: "tomatoheader.jpg"
+  caption: "Integrated Biofertilizer Production and Application to Tomatoes"
+
 # links:
 # - name: Website
 #   url: https://www.frontiersin.org/articles/10.3389/fsufs.2019.00058/full
