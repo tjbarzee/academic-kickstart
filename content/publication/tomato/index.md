@@ -33,10 +33,10 @@ tags:
 - ultrafiltration
 featured: false
 
-image:
-  caption: 'Some tomato yield and quality characteristics, DMP, FWC, and DMC all refer to different digestate biofertilizer treatments'
-  focal_point: "Center"
-  preview_only: false
+# image:
+#  caption: 'Some tomato yield and quality characteristics, DMP, FWC, and DMC all refer to different digestate biofertilizer treatments'
+#  focal_point: "Center"
+#  preview_only: false
 
 # links:
 # - name: Website
