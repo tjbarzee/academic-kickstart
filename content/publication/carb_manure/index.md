@@ -18,8 +18,7 @@ date: "2016-02-26T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: Final Technical Report to *State of California Air Resources Board
-Contract #14‐456*
+publication: Final Technical Report to *State of California Air Resources Board*
 # publication_short:
 
 abstract: The	objective	of	this	research	project	is	to	develop	information	to	help	inform	policies	to	
