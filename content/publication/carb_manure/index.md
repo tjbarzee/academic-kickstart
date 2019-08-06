@@ -1,6 +1,5 @@
 ---
-title: "Evaluation of Dairy Manure Management Practices for Greenhouse Gas
-Emissions Mitigation in California"
+title: "Evaluation of Dairy Manure Management Practices for Greenhouse Gas Emissions Mitigation in California"
 authors:
 - Stephen Kaffka
 - Tyler Barzee
@@ -19,17 +18,10 @@ publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication: Final Technical Report to *State of California Air Resources Board*
-# publication_short:
+publication_short:
 
 abstract: The	objective	of	this	research	project	is	to	develop	information	to	help	inform	policies	to	
-promote	reduction	of	greenhouse	gas	(GHG)	emissions	from	dairy	manure	management	in	
-California.		This	research	(1)	describes	and	evaluates	manure	management	technology	
-options	currently	or	potentially	available	to	dairy	farms	in	California,	(2)	compares	
-technologies	based	on	GHG	emissions	reduction	potential,	costs	and	limitations,	and	(3)	
-estimates	GHG	mitigation	cost	(or	supply)	curves	for	various	manure	management	
-strategies	if	applied	across	large	fractions	of	the	California	dairy	industry.		Air	and	water	
-quality	implications	are	discussed	based	on	limited	data	and	other	technical	studies	
-available,	especially	those	focused	on	California	conditions.	
+promote	reduction	of	greenhouse	gas	(GHG)	emissions	from	dairy	manure	management	in California. This	research (1)	describes	and	evaluates	manure	management	technology options	currently	or	potentially	available	to	dairy	farms	in	California,	(2)	compares technologies	based	on	GHG	emissions	reduction	potential,	costs	and	limitations,	and	(3)	estimates	GHG	mitigation	cost	(or	supply) curves	for	various	manure	management strategies	if	applied	across	large	fractions	of	the	California	dairy	industry.		Air	and	water	quality	implications	are	discussed	based	on	limited	data	and	other	technical	studies	available,	especially	those	focused	on	California	conditions.	
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
