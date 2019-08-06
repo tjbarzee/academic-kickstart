@@ -43,7 +43,7 @@ featured: true
 # links:
 # - name: Website
 #   url: https://www.frontiersin.org/articles/10.3389/fsufs.2019.00058/full
-url_pdf: 'https://www.frontiersin.org/articles/10.3389/fsufs.2019.00058/full'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
