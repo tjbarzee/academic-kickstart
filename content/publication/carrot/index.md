@@ -15,7 +15,7 @@ doi: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Integrated Processing Technologies for Food and Agricultural By-Products*"
+publication: "In *Integrated Processing Technologies for Food and Agricultural By-Products*"
 publication_short: ""
 
 abstract: Carrot (Daucus carota) is an important food crop utilized worldwide and its production is associated with byproducts such as culled carrots and carrot waste (i.e., carrot pomace). A variety of technologies aimed at adding value to the byproducts or lessening the environmental impacts of current disposal strategies have been explored in recent years. These technologies encompass physical, chemical, and biological processes and may create products in the form of extracted chemicals, biofuels, novel foods, and adsorbent materials. The objective of this chapter was to review the current trends in carrot production throughout the world; the state of the art in carrot cultivation, harvest, storage, and processing; the production and likely amounts of carrot waste and byproducts; and the application of physical, chemical, and biological technologies to the byproducts. The technologies reviewed are at various stages of commercial development with some already widely commercially available and others farther off in development. The information reviewed here will help in the dissemination of research results of industrial interest to aid in the adoption of relevant technologies in commercial operations. 
@@ -25,12 +25,24 @@ abstract: Carrot (Daucus carota) is an important food crop utilized worldwide an
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- anaerobic digestate
-- tomatoes
-- liquid fertilizers
-- biofertilizer
-- subsurface drip fertigation
-- ultrafiltration
+- carrot
+- daucus carota
+- carrot pomace
+- value-added products
+- anaerobic digestion
+- bioethanol
+- pyrolysis
+- compost
+- disinfection
+- thermal processing
+- supercritical co2 extraction
+- pulsed electric field
+- microwave
+- infrared 
+- ultrasound
+- food product development
+- adsorption
+- wastewater treatment
 featured: true
 
 # image:
