@@ -41,7 +41,7 @@ featured: false
  # preview_only: false
 
 
-# links:
+links:
 - name: 'News Article'
     url: 'https://engineering.ucdavis.edu/blog/students-present-bio-fertilizer-research-design-expo/'
 url_pdf: ''
