@@ -42,15 +42,15 @@ featured: false
 
 
 # links:
-# - name: Website
-#   url: 
+- name: 'News Article'
+    url: 'https://engineering.ucdavis.edu/blog/students-present-bio-fertilizer-research-design-expo/'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: 'https://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract/10526/report/F'
 url_slides: ''
-url_source: 'https://engineering.ucdavis.edu/blog/students-present-bio-fertilizer-research-design-expo/'
+url_source: ''
 url_video: ''
 
 # Associated Projects (optional).
