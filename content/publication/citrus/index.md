@@ -29,7 +29,7 @@ tags:
 - orange peel
 - harvesting
 - bioenergy
-featured: true
+featured: false
 
 # image:
 #  caption: 'Some tomato yield and quality characteristics, DMP, FWC, and DMC all refer to different digestate biofertilizer treatments'
