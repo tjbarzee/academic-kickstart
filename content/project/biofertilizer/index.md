@@ -15,7 +15,7 @@ external_link: ""
 
 image: 
   caption: Sustainable Nutrient Cycling
-  focal_point: Smart
+  focal_point: Center
   
 ---
 This project focused on the pilot-scale production of solid and liquid biofertilizer products from anaerobically digested food waste and dairy manure. The work included digestate characterization, lab-scale biofertilizer development, pilot-scale digestate processing, greenhouse fertilization trials with lettuce, farm-scale fertilization trials with tomatoes and corn, and technoeconomic analysis.
