@@ -6,7 +6,7 @@ authors:
 - Ruihong Zhang
 - Zhongli Pan
 date: "2019-07-26T00:00:00Z"
-doi: ""
+doi: "10.1016/B978-0-12-814138-0.00012-5"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -54,13 +54,13 @@ featured: true
 # links:
 # - name: Website
 #   url: 
-url_pdf: 'https://www.sciencedirect.com/book/9780128141380/integrated-processing-technologies-for-food-and-agricultural-by-products'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://books.google.com/books?id=QUqiDwAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=false'
+url_source: ''
 url_video: ''
 
 # Associated Projects (optional).
