@@ -14,7 +14,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image: 
-  caption: "Dairy Manure Lagoon [Image Credit] (http://manure.ucdavis.edu/Illustrations/Dairy_Lagoons/)
+  caption: "Dairy Manure Lagoon (Image Credit)[http://manure.ucdavis.edu/Illustrations/Dairy_Lagoons/]"
   focal_point: Smart
   
 ---
