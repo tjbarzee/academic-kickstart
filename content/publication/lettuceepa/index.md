@@ -35,10 +35,10 @@ tags:
 - lettuce
 featured: false
 
- image:
-  caption: ''
-  focal_point: "Center"
-  preview_only: false
+ # image:
+ # caption: ''
+ # focal_point: "Center"
+ # preview_only: false
 
 
 # links:
