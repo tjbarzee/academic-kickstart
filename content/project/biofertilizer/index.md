@@ -1,6 +1,6 @@
 ---
 title: Biofertilizer Production from Anaerobic Digestates
-summary: This project focused on the pilot-scale production of solid and liquid biofertilizer products from anaerobically digested food waste and dairy manure. The work included digestate characterization, lab-scale biofertilizer development, pilot-scale digestate processing, greenhouse fertilization trials with lettuce, farm-scale fertilization trials with tomatoes and corn, and technoeconomic analysis. 
+summary: Pilot-scale production of solid and liquid biofertilizer products from anaerobically digested food waste and dairy manure.
 tags:
 - anaerobic digestion
 - digestate
@@ -18,3 +18,4 @@ image:
   focal_point: Smart
   
 ---
+This project focused on the pilot-scale production of solid and liquid biofertilizer products from anaerobically digested food waste and dairy manure. The work included digestate characterization, lab-scale biofertilizer development, pilot-scale digestate processing, greenhouse fertilization trials with lettuce, farm-scale fertilization trials with tomatoes and corn, and technoeconomic analysis.
