@@ -18,7 +18,7 @@ publication_types: ["6"]
 publication: "In *Integrated Processing Technologies for Food and Agricultural By-Products*"
 publication_short: ""
 
-abstract:
+abstract: Citrus is one of the most popular fruit commodities in the world because of its refreshing flavor and nutritional values. With efficient harvesting and processing technologies, the citrus industry has developed in more than 140 countries across the world, with an annual production of more than 146 million tons. The citrus by-products generated from citrus processing include peel, pulp, rag, and seeds. These materials still contain large amounts of fiber, protein, pectin, polyphenols, and essential oils. Currently, citrus by-products are predominantly utilized as animal feed. Converting citrus by-products to other value-added products is becoming more attractive with the development of novel extraction and conversion technologies. However, additional research and development are needed in order to apply these technologies on an industrial scale economically.
 
 
 # Summary. An optional shortened abstract.
