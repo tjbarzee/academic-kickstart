@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Tyler Barzee
+name: Tyler Barzee, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Biological Systems Engineering
+role: Postdoctoral Scholar in Biological Systems Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ education:
   courses:
   - course: PhD in Biological Systems Engineering
     institution: University of California Davis
-    year: 2019 (expected)
+    year: 2020
   - course: MS in Biological Systems Engineering
     institution: University of California Davis
     year: 2016
@@ -78,4 +78,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate in Biological Systems Engineering at the University of California Davis where I work with Professor Ruihong Zhang in the Bioenvironmental Engineering lab. My  research interests include: Agricultural Waste Management, Renewable Energy, Controlled Environment Engineering (e.g. Greenhouses and Bioreactors), Algal and Fungal Biotechnology, and Technoeconomic/Life Cycle Assessment. I am also passionate about engineering education, sustainable development, and interdisciplinary planetary health solutions (e.g. One Health). I am in the final stage of my doctoral degree at UC Davis and my future goal is to become a faculty researcher and educator.
+I am a Postdoctoral Scholar in Biological Systems Engineering at the University of California Davis where I work with Professor Ruihong Zhang in the Bioenvironmental Engineering lab. My  research interests include: Agricultural Waste Management, Renewable Energy, Controlled Environment Engineering (e.g. Greenhouses and Bioreactors), Algal and Fungal Biotechnology, and Technoeconomic/Life Cycle Assessment. I am also passionate about engineering education, sustainable development, and interdisciplinary planetary health solutions (e.g. One Health). My future goal is to become a faculty researcher and educator.
