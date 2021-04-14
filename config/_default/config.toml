@@ -66,6 +66,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   publication_type = "publication_types"
   author = "authors"
 
-[module.imports]
+[module]
 path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms"
 path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
