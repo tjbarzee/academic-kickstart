@@ -81,9 +81,4 @@ user_groups:
 
 I am a Postdoctoral Scholar in Biological Systems Engineering at the University of California Davis where I work with Professor Ruihong Zhang in the Bioenvironmental Engineering lab. My research interests include: Bioprocessing/Fermentation, Algal and Fungal Biotechnology, Process Modeling, Agricultural Byproduct Upgrading, Renewable Energy, Controlled Environment Engineering, and Technoeconomic/Life Cycle Assessment. I am also passionate about engineering education, sustainable development, and interdisciplinary planetary health solutions (e.g. One Health). My future goal is to become a faculty researcher and educator.
 
-# Generate Wowchemy CMS
-type: wowchemycms
-outputs:
-  - wowchemycms_config
-  - HTML
 
