@@ -1,5 +1,5 @@
 ---
-title: Fungi and Fermenetation
+title: Fungi and Fermentation
 summary: Harnessing the power of fungi and fermentation to create novel food products
 tags:
 - fungal-assisted harvesting of microalgae
