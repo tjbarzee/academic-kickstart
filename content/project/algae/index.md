@@ -1,6 +1,6 @@
 ---
-title: Algae Production from Wastewater
-summary: Cultivation of microalgae on wastewater for biofuel and bioproduct development
+title: Microalgae Production 
+summary: Cultivation of microalgae for biofuel and bioproduct development
 tags:
 - microalgae
 - chlorella
