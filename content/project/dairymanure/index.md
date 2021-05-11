@@ -1,5 +1,5 @@
 ---
-title: Dairy Manure Methane Mitigation and Healthy Soils
+title: Mitigating Greenhouse Gas Emissions from Farms
 summary: Economic and technical performance analyses of greenhouse gas reducing technologies for California dairy farms
 tags:
 - dairy manure
@@ -8,7 +8,7 @@ tags:
 - performance analysis
 - anaerobic digestion
 - wastewater treatment
-date: "2016-04-27T00:00:00Z"
+date: "2016-02-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
