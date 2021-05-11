@@ -14,7 +14,7 @@ external_link: ""
 
 image: 
   caption: Fungal-assisted harvesting of microalgae
-  focal_point: Smart
+  focal_point: Center
   
 ---
 This project focuses on understanding the unique characteristics and bioprocessing uses of fungi to create new food products and even aid in the harvesting of microalgae.
