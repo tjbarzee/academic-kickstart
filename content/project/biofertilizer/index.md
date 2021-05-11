@@ -1,5 +1,5 @@
 ---
-title: Biofertilizer Production from Anaerobic Digestates
+title: Coupling Renewable Energy and Agriculture
 summary: Pilot-scale production of solid and liquid biofertilizer products from anaerobically digested food waste and dairy manure.
 tags:
 - anaerobic digestion
