@@ -1,5 +1,5 @@
 ---
-title: Integrated Processing Technologies for Food and Agricultural By-Products
+title: Upgrading Food and Agricultural By-Products
 summary: Investigation of integrated technologies for the upgrading of agricultural by-products.
 tags:
 - value-added products
